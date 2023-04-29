@@ -1,4 +1,4 @@
-# PowerBI
+# LinkedIn data on PowerBI
 Creating data visualizations for my personal LinkedIn profile using PowerBI to show a summary of my profile on a dashboard.
 
 ## Set up.
