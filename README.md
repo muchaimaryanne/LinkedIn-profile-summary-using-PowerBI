@@ -8,7 +8,7 @@ Sample data from LinkedIn: [LinkedIn](https://www.linkedin.com/help/linkedin/ans
 
 ## Screenshots
 
-Screenshots: ![Screenshot_1](/pics/001.png)
+![Screenshot_1](/pics/001.png)
 
 
 
